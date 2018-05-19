@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: 4d32d4326f27b456b99a137ec41e5d23
+timeCreated: 1517450395
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Back_CTL
+    100002: Back_JNT
+    100004: Head
+    100006: Head_JNT
+    100008: ikHandle1
+    100010: ikHandle2
+    100012: joint10
+    100014: joint10 1
+    100016: joint11
+    100018: joint11 1
+    100020: joint12
+    100022: joint12 1
+    100024: joint6
+    100026: joint6 1
+    100028: joint7
+    100030: joint7 1
+    100032: joint8
+    100034: joint8 1
+    100036: L_Arm
+    100038: L_Arm_CTL
+    100040: L_Arm_JNT
+    100042: L_Eye
+    100044: L_Foot_CTL
+    100046: L_Hand
+    100048: L_Hand1
+    100050: L_Hand2
+    100052: L_Knee_CTL
+    100054: L_Leg
+    100056: L_Leg_JNT
+    100058: L_Shoulder_CTL
+    100060: Neck_CTL
+    100062: Neck_JNT
+    100064: nurbsCircle7
+    100066: Person_Body
+    100068: Placement_CTL
+    100070: R_Arm
+    100072: R_Arm_CTL1
+    100074: R_Arm_CTL2
+    100076: R_Arm_JNT
+    100078: R_Eye
+    100080: R_Foot_CTL
+    100082: R_Hand
+    100084: R_Knee_CTL
+    100086: R_Leg
+    100088: R_Leg_JNT
+    100090: R_Shoulder_CTL
+    100092: Root
+    100094: Root_CTL
+    100096: //RootNode
+    400000: Back_CTL
+    400002: Back_JNT
+    400004: Head
+    400006: Head_JNT
+    400008: ikHandle1
+    400010: ikHandle2
+    400012: joint10
+    400014: joint10 1
+    400016: joint11
+    400018: joint11 1
+    400020: joint12
+    400022: joint12 1
+    400024: joint6
+    400026: joint6 1
+    400028: joint7
+    400030: joint7 1
+    400032: joint8
+    400034: joint8 1
+    400036: L_Arm
+    400038: L_Arm_CTL
+    400040: L_Arm_JNT
+    400042: L_Eye
+    400044: L_Foot_CTL
+    400046: L_Hand
+    400048: L_Hand1
+    400050: L_Hand2
+    400052: L_Knee_CTL
+    400054: L_Leg
+    400056: L_Leg_JNT
+    400058: L_Shoulder_CTL
+    400060: Neck_CTL
+    400062: Neck_JNT
+    400064: nurbsCircle7
+    400066: Person_Body
+    400068: Placement_CTL
+    400070: R_Arm
+    400072: R_Arm_CTL1
+    400074: R_Arm_CTL2
+    400076: R_Arm_JNT
+    400078: R_Eye
+    400080: R_Foot_CTL
+    400082: R_Hand
+    400084: R_Knee_CTL
+    400086: R_Leg
+    400088: R_Leg_JNT
+    400090: R_Shoulder_CTL
+    400092: Root
+    400094: Root_CTL
+    400096: //RootNode
+    2100000: Shirt_Blue
+    2100002: Skin_Color_2
+    2100004: Shoes_White
+    2100006: White_Eyes
+    4300000: Person_Body
+    4300002: L_Hand
+    4300004: R_Hand
+    4300006: L_Hand1
+    4300008: L_Hand2
+    4300010: Head
+    4300012: L_Eye
+    4300014: R_Eye
+    4300016: L_Arm
+    4300018: R_Arm
+    4300020: L_Leg
+    4300022: R_Leg
+    7400000: Throw
+    9500000: //RootNode
+    13700000: Head
+    13700002: L_Arm
+    13700004: L_Eye
+    13700006: L_Hand
+    13700008: L_Hand1
+    13700010: L_Hand2
+    13700012: L_Leg
+    13700014: Person_Body
+    13700016: R_Arm
+    13700018: R_Eye
+    13700020: R_Hand
+    13700022: R_Leg
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Throw
+      takeName: Throw
+      firstFrame: 77
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.43442968
+        functionName: toss
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
